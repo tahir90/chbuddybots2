@@ -1,0 +1,16 @@
+{
+  "name": "buddybots-landing-page",
+  "version": "1.0.0",
+  "description": "BuddyBots.ai landing page - AI automation solutions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server --port=3000 --open=/"
+  },
+  "keywords": ["ai", "automation", "landing-page"],
+  "author": "BuddyBots.ai",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
